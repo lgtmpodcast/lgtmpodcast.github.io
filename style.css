@@ -1,0 +1,14 @@
+/**
+ * Layout
+ */
+:root {
+  font-family: sans-serif;
+}
+
+body {
+  margin: 20px;
+}
+
+section + section {
+  margin-top: 30px;
+}
